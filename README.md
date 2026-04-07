@@ -180,5 +180,5 @@ timeline    = "in progress — and that's the point"
 ```
 `> analytics.views`
 
-![Profile Views](https://komarev.com/ghpvc/?username=SimbiLys&color=A88952&style=flat-square&label=PROFILE%20VIEWS%20━━━━━━━━━━━━━━━━━━━━━━━━━━━━)
+![Profile Views](https://komarev.com/ghpvc/?username=SimbiLys&color=A88952&style=flat-square&label=PROFILE%20VIEWS%20                    )
 </div>
