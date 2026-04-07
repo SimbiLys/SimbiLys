@@ -24,9 +24,9 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/274039233?s=400&u=fe16e9f896b4a0b2a8ad46dc05702932d8b61185&v=4" width="180" />
   
-  <br><br>
+  <br>
   
-  <sub>SIMBI Lys</sub>
+  <sub>Krista</sub>
 </div>
 
 
