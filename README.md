@@ -22,7 +22,7 @@
 
 <br>
 
-<img align="right" width="220" src="YOUR_AVATAR_URL_HERE" />
+<img align="right" width="220" src="https://github.com/account" />
 
 ## `> identity.log`
 
