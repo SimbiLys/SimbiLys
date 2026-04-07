@@ -28,7 +28,7 @@
 <br>
 
 <h2>Krista</h2>
-<sub>AI • Systems • Design</sub>
+<h3>AI • Systems • Design</h3>
 
 </div>
 
@@ -158,7 +158,7 @@ timeline    = "in progress — and that's the point"
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=soft-green&hide_border=true&background=1a1008&stroke=C9A96E&ring=C9A96E&fire=e8825a&currStreakLabel=C9A96E&sideLabels=e8d5b0&dates=888888)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SimbiLys&theme=soft-green&hide_border=true&background=1a1008&stroke=C9A96E&ring=C9A96E&fire=e8825a&currStreakLabel=C9A96E&sideLabels=e8d5b0&dates=888888)](https://git.io/streak-stats)
 
 </div>
 
