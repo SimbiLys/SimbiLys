@@ -150,15 +150,6 @@ timeline    = "in progress — and that's the point"
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=SimbiLys&show_icons=true&hide_border=true&bg_color=1a1008&title_color=C9A96E&icon_color=C9A96E&text_color=e8d5b0&include_all_commits=true&count_private=true"/>
-
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimbiLys&layout=compact&hide_border=true&bg_color=1a1008&title_color=C9A96E&text_color=e8d5b0"/>
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=SimbiLys&theme=soft-green&hide_border=true&background=1a1008&stroke=C9A96E&ring=C9A96E&fire=e8825a&currStreakLabel=C9A96E&sideLabels=e8d5b0&dates=888888)](https://git.io/streak-stats)
 
 </div>
