@@ -168,10 +168,9 @@ timeline    = "in progress — and that's the point"
 ## `> contact.init`
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-C9A96E?style=flat-square&logo=safari&logoColor=black)](YOUR_PORTFOLIO)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:simbilys2.0@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-C9A96E?style=flat-square&logo=linkedin&logoColor=black)](YOUR_LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-E8D5B0?style=flat-square&logo=safari&logoColor=black)](YOUR_PORTFOLIO)
+[![Email](https://img.shields.io/badge/Email-A88952?style=flat-square&logo=gmail&logoColor=white)](mailto:simbilys2.0@gmail.com)
 
 </div>
 
