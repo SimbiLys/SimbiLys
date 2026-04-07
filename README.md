@@ -178,7 +178,11 @@ timeline    = "in progress — and that's the point"
 ║                                          — Krista            ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
+<div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=C9A96E&style=flat-square&label=PROFILE+VIEWS)
+`> analytics.views`
 
+![Profile Views](https://komarev.com/ghpvc/?username=SimbiLys&color=A88952&style=flat-square&label=PROFILE+VIEWS)
+
+</div>
 </div>
