@@ -22,7 +22,7 @@
 
 <br>
 
-<img align="right" width="220" src="https://github.com/account" />
+<img align="right" width="220" src="[https://github.com/account](https://avatars.githubusercontent.com/u/274039233?s=400&u=fe16e9f896b4a0b2a8ad46dc05702932d8b61185&v=4)" />
 
 ## `> identity.log`
 
