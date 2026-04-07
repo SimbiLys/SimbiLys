@@ -28,18 +28,22 @@
 
 ```
 Name        Krista
+
 Track       Software Engineering · Embedded Systems · AI
-Currently   Learning how machines think — from the hardware
+
+Currently   Learning how machines think from the hardware
             up to the model layer.
+
 Designing   Interfaces that don't just look good.
             They make sense.
+
 Goal        AI Engineer. Not someday. Intentionally.
+
 Status      Building. Always.
 ```
 
-> I started at the wire level — learning how code runs on bare metal.
+> I started at the wire level learning how code runs on bare metal.
 > Then I moved up to systems, then interfaces, then intelligence.
-> I'm not jumping around. I'm climbing deliberately.
 
 <br clear="right"/>
 
@@ -50,24 +54,21 @@ Status      Building. Always.
 *Three domains. One direction.*
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   HARDWARE LAYER          LOGIC LAYER         MIND LAYER   │
-│   ───────────────         ───────────         ──────────   │
-│   Embedded Systems   →    Software Eng   →    AI / ML      │
-│   C · bare metal          JS · Python         (in progress)│
-│   signals & memory        Node · PHP                       │
-│                                                             │
-│                  + DESIGN LAYER (always on)                 │
-│                    UI/UX · 3D · Visual Systems              │
-│                    Figma · Blender · Adobe                  │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                                         │
+│   HARDWARE LAYER          LOGIC LAYER         MIND LAYER           DESIGN LAYER (always on)             │
+│   ───────────────         ───────────         ──────────           ────────────────────────             │
+│   Embedded Systems   →    Software Eng   →    AI / ML           +    UI/UX · 3D · Visual Systems        │
+│   C · bare metal          JS · Python         (in progress)          Figma · Blender · Adob             │
+│   signals & memory        Node · PHP                                                                    │
+│                                                                                                         │
+│                                                                                                         │
+│                                                                                                         │
+│                                                                                                         │
+│                                                                                                         │
+└─────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
-> Most people pick a lane. I'm building a road.
-
----
 
 ## `> stack.list`
 
@@ -141,7 +142,7 @@ timeline    = "in progress — and that's the point"
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=1a1008&title_color=C9A96E&icon_color=C9A96E&text_color=e8d5b0&include_all_commits=true&count_private=true"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=SimbiLys&show_icons=true&hide_border=true&bg_color=1a1008&title_color=C9A96E&icon_color=C9A96E&text_color=e8d5b0&include_all_commits=true&count_private=true"/>
 
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimbiLys&layout=compact&hide_border=true&bg_color=1a1008&title_color=C9A96E&text_color=e8d5b0"/>
 
