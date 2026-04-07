@@ -152,6 +152,7 @@ timeline    = "in progress — and that's the point"
 
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=SimbiLys&show_icons=true&hide_border=true&bg_color=1a1008&title_color=C9A96E&icon_color=C9A96E&text_color=e8d5b0&include_all_commits=true&count_private=true"/>
 
+
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimbiLys&layout=compact&hide_border=true&bg_color=1a1008&title_color=C9A96E&text_color=e8d5b0"/>
 
 </div>
