@@ -22,14 +22,15 @@
 
 <br>
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/274039233?s=400&u=fe16e9f896b4a0b2a8ad46dc05702932d8b61185&v=4" width="180" />
-  
-  <br>
-  
-  <sub>Krista</sub>
+
+<img src="https://avatars.githubusercontent.com/u/274039233?s=400&u=fe16e9f896b4a0b2a8ad46dc05702932d8b61185&v=4" width="180" />
+
+<br>
+
+<h2>Krista</h2>
+<sub>AI • Systems • Design</sub>
+
 </div>
-
-
 
 ## `> identity.log`
 
