@@ -28,7 +28,7 @@
 <br>
 
 <h2>Krista</h2>
-<h3>AI • Systems • Design</h3>
+<h5>AI • Systems • Design</h5>
 
 </div>
 
